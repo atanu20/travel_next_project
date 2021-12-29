@@ -37,7 +37,7 @@ const Footer = () => {
             </a>
             <a href="#">
               {' '}
-              <i className="fas fa-envelope"></i> shaikhanas@gmail.com{' '}
+              <i className="fas fa-envelope"></i> abc@gmail.com{' '}
             </a>
             <a href="#">
               {' '}
