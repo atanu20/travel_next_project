@@ -83,7 +83,7 @@ const Shop = () => {
 
             <div className="swiper-slide slide">
               <div className="image">
-                <img src="images/product-3.jpg" alt="" />
+                <img src="images/product-3.JPG" alt="" />
                 <div className="icons">
                   <a href="#" className="fas fa-shopping-cart"></a>
                   <a href="#" className="fas fa-eye"></a>
@@ -105,7 +105,7 @@ const Shop = () => {
 
             <div className="swiper-slide slide">
               <div className="image">
-                <img src="images/product-4.jpg" alt="" />
+                <img src="images/product-4.JPG" alt="" />
                 <div className="icons">
                   <a href="#" className="fas fa-shopping-cart"></a>
                   <a href="#" className="fas fa-eye"></a>
