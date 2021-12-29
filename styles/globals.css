@@ -713,9 +713,9 @@ section {
       from(rgba(0, 0, 0, 0.5)),
       to(rgba(0, 0, 0, 0.5))
     ),
-    url(http://localhost:3000/images/footer-bg.jpg) no-repeat;
+    url(https://travel-next-project.vercel.app/images/footer-bg.jpg) no-repeat;
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(http://localhost:3000/images/footer-bg.jpg) no-repeat;
+    url(https://travel-next-project.vercel.app/images/footer-bg.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
