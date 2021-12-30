@@ -74,7 +74,7 @@ const Footer = () => {
           created by{' '}
           <span>
             {' '}
-            <a href="https://github.com/atanu20">atanu20</a>{' '}
+            <a href="https://github.com/atanu20" target="_blank">atanu20</a>{' '}
           </span>{' '}
           | all rights reserved!
         </div>
